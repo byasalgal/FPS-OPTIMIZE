@@ -1,0 +1,6 @@
+id=kernelsu-fps
+name=Dynamic FPS Reducer
+version=1.0
+versionCode=1
+author=byaslgal
+description=Simulates FPS drop when screen is idle
