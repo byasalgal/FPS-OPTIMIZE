@@ -1,7 +1,5 @@
-# SystemFlux v3.0
-FPS-OPTIMIZE has been renamed to SystemFlux
-Reason:
-Its not becoming more like an fps optimizer its more of like optimizer now
+# SystemFlux v3.1
+- Bug fixes
 # Features
 - Dynamic CPU detection
 - Real FPS switching (if available)
@@ -9,8 +7,7 @@ Its not becoming more like an fps optimizer its more of like optimizer now
 - System-wide power tuning
 - Live notifications
 # How to install
-Click the SystemFlux.zip below or click here
-[SystemFlux.zip](https://github.com/user-attachments/files/20546334/SystemFlux.zip)
+Click the SystemFlux.zip below
 Go to Kernelsu
 Click module and install
 Select SystemFlux.zip
